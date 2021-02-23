@@ -1,0 +1,1 @@
+Developed a Coronavirus Tracker Web Application using Java, Spring Boot, HTML5 and CSS. In this application, we fetched the data from Github file and then utilized the data to show total number of Covid cases and total number of new cases accross the globe.
